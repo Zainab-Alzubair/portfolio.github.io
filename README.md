@@ -23,7 +23,8 @@ To get a local copy up and running follow these simple example steps.
 ### Install
 git clone git@github.com:Zainab-Alzubair/portfolio.git
 
-
+### online version 
+https://zainab-alzubair.github.io/portfolio.github.io/
 
 ## Authors
 
